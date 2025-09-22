@@ -3,3 +3,4 @@
 - onion
 - potato
 # Instructions
+put peas in pan
